@@ -9,8 +9,8 @@ redirect_from:
 ---
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">I am a PhD student in Sommer's lab at the **Department of Biomedical Science and Department of Psychiatry, University Medical Center of Groningen**, starting in 2022.</span><br>
 ### Education Background:
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">* 2018-2021, MSc from East China Normal University. </span><br>
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">* 2013-2017, BSc from Shanghai Jiao Tong University. </span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">* 2018-2021, MSc from East China Normal University, Shanghai New York University Brain and Cognitive Science Joint Institute. </span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">* 2013-2017, BSc from Shanghai Jiao Tong University School of Medicine</span><br>
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">Currently, I am involved in an exciting national-wide clinical trial [HAMLETT STUDY](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-019-3822-5) in the Netherlands. My PhD research revolves around ***understanding the influence of childhood adversities on the clinical course, cognition, and brain development of individuals with schizophrenia***, mainly supervised by Prof. Dr. [Iris Sommer](https://scholar.google.ca/citations?user=CVy4SaUAAAAJ&hl=en) and Dr. Marieke Begemann. I am applying machine learning and gragh-based network analysis in my research. I am also collaborating on large neuroimaging datasets, like [ENIGMA](https://enigma.ini.usc.edu/), [ABCD](https://abcdstudy.org/) and ZIB. </span><br>
 
@@ -28,16 +28,16 @@ redirect_from:
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;"> For my Master's thesis, I conducted research on ***the Neuro-Mechanism of Reward Representation Maintenance in Schizophrenia and Schizotypy using task-based fMRI***, supervised by Dr. [Chao Yan](https://scholar.google.com/citations?user=fMJTuuEAAAAJ&hl=en), and Dr. Zhaoxin Wang. This research aimed to understand the **anhedonia** symptoms in schizophrenia and schizotypy, which contributed to the broader field of negative symptoms.</span><br>
 
 
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">From 2013 to 2017, I pursued a **combined Bachelor program in Public Health/Nursing** at Shanghai Jiao Tong University. Throughout my studies, I received comprehensive training in various disciplines, including **Biomedical Sciences, Biostatistics, Epidemiology, Health Promotion, Health Management, and Clinical Nursing Practices**. In 2014, I chose **Psychology** as my minor due to strong interests in brain and mental health.</span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;"> From 2013 to 2017, I pursued a **combined Bachelor program in Public Health/Nursing** at Shanghai Jiao Tong University. Throughout my studies, I received comprehensive training in various disciplines, including **Biomedical Sciences, Biostatistics, Epidemiology, Health Promotion, Health Management, and Clinical Nursing Practices**. From 2014 to 2017, I studied **Psychology** as my second major due to strong interests in brain and mental health.</span><br>
 
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">During my Bachelor's program, I actively engaged in two projects. One project involved **modeling the deposition of air pollutants (PM 2.5)** in the respiratory system and exploring its damage on the cardiovascular system among marathon athletes. Another project was inverstigating the turnover intention among nurses in long-term care in Shanghai.</span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">During my Bachelor's program, I actively engaged in the project **modeling the deposition of air pollutants (PM 2.5)** in the respiratory system and exploring its damage on the cardiovascular system among marathon athletes.</span><br>
 
 
 ### In Industy
 
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">From 2020 to 2021, I had the opportunity to work as a **Medical Affairs Intern at Pfizer** for 8 months. During my internship, I provided valuable academic support for antibiotics products, specifically Cefoperazone-Sulbactam and Ceftazidime-Avibactam. Additionally, I assisted to do **policy research** related to volume-based procurement in China.</span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">From 2020 to 2021, I worked as a **Medical Affairs Intern at Pfizer** for 8 months. During my internship, I provided academic support for antibiotics products, specifically Cefoperazone-Sulbactam and Ceftazidime-Avibactam. Additionally, I assisted to do **policy research** related to volume-based procurement in China.</span><br>
 
 
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">From 2017 to 2018, I served as a **Medical Affairs Assistant at Chisie pharmaceutical company**. In this role, I was responsible for Drug Safety of Respiratory & Neonatal drugs, and diligently reported Adverse Events to the Food and Drug Administration (FDA).</span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">From 2017 to 2018, I served as a **Medical Affairs Assistant at Chisie pharmaceutical company**. I was responsible for Drug Safety of Respiratory & Neonatal drugs, and diligently reported Adverse Events to the Food and Drug Administration (FDA).</span><br>
 
 
