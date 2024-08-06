@@ -1,0 +1,25 @@
+# main links links
+main:
+#  - title: "Recording my PhD"
+#    url:  /teaching/ 
+
+  - title: "Projects"
+    url: /projects/    
+
+#  - title: "Teaching"
+#    url: /teaching/    
+    
+#  - title: "Portfolio"
+ #   url: /portfolio/
+        
+  - title: "News"
+    url: /news/
+    
+ # - title: "CV"
+  #  url: /cv/
+    
+  - title: "Services"
+    url: /markdown/
+
+  - title: "Hobbies"
+    url: /hobbies/
