@@ -14,11 +14,3 @@ redirect_from:
 ### Write fantasy novels
 #### I am deeply interested in science fiction and fantasy fiction. I enjoy the process of melding my thoughts and beliefs into a story. I hope to write my own book, a successor to "Earth Sea."
 
-### Painting
-![Alt Text](/images/painting1.jpg)
-
-### Traditional Chinese Medicine
-#### I enjoy identifying different herbs and understanding how they work, based on the theories of traditional Chinese medicine. When hiking outside, I recognize various plants.
-
-### Daoism 道 Philosophy
-#### Zhuang Zi 庄子 is my favorite oriental philosopher. I benefit greatly from Daoism.
