@@ -10,7 +10,7 @@ redirect_from:
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">I am a PhD student in Sommer's lab at the **Department of Biomedical Science and Department of Psychiatry, University Medical Center of Groningen**, starting in 2022.</span><br>
 ### Education Background:
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">* 2018-2021, MSc from East China Normal University, Shanghai New York University Brain and Cognitive Science Joint Institute. </span><br>
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">* 2013-2017, BSc from Shanghai Jiao Tong University School of Medicine</span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">* 2013-2017, BSc from Shanghai Jiao Tong University</span><br>
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">Currently, I am involved in an exciting national-wide clinical trial [HAMLETT STUDY](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-019-3822-5) in the Netherlands. My PhD research revolves around ***understanding the influence of childhood adversities on the clinical course, cognition, and brain development of individuals with schizophrenia***, mainly supervised by Prof. Dr. [Iris Sommer](https://scholar.google.ca/citations?user=CVy4SaUAAAAJ&hl=en) and Dr. Marieke Begemann. I am applying machine learning and gragh-based network analysis in my research. I am also collaborating on large neuroimaging datasets, like [ENIGMA](https://enigma.ini.usc.edu/), [ABCD](https://abcdstudy.org/) and ZIB. </span><br>
 
