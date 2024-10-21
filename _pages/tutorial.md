@@ -1,5 +1,5 @@
 ---
-permalink: /Hobbies/
+permalink: /Tutorial/
 title: "Tutorials"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 
-### Gender equality
-#### As females, we may encounter many adversities throughout our life. I am working on gender equality. I'm not sure if it can be considered a hobby, but I am dedicated to raising awareness among women that we should have the courage to construct our own identities, rather than being seen as objects under the power of men. If you are interested, you could read my articles about gender equality here:
+### Psychopathogical Network Analysis
+<font size="3">This is the tutorial for psychopathological network analysis. The related packages will be used such as "bootnet", "qgrap", and "Huge".</font>
 
-  1. [_The regulations imposed on women in everyday life_](https://sulky-verse-35b.notion.site/43fab7ee6d6a4bfb948c355d35deb298) (In Chinese).
+### Mutilevel modeling/linear mixed-effect model
+#### 
 
-### Write fantasy novels
-#### I am deeply interested in science fiction and fantasy fiction. I enjoy the process of melding my thoughts and beliefs into a story. I hope to write my own book, a successor to "Earth Sea."
+### 100 R Programming Tips for Psychologists: A Beginner-Friendly Guide
+<font size="3">This book is written during my PhD to summarize all codes I had written. It is not only for psychologists, but almost for everyone who is doing social sciences or medical sciences</font>
+<font size="3">This is smaller text</font>
 
