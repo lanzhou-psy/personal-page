@@ -1,10 +1,10 @@
 ---
 permalink: /Hobbies/
-title: "Art, Science and Faith"
+title: "Tutorials"
 author_profile: true
 redirect_from: 
-  - /hobbies/
-  - /hobbies.html
+  - /tutorial/
+  - /tutorial.html
 ---
 
 
