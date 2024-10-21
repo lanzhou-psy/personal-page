@@ -1,9 +1,9 @@
 ---
-permalink: /Tutorial/
+permalink: /tutorial/
 title: "Tutorials"
 author_profile: true
 redirect_from: 
-  - /tutorial/
+  - /Tutorials/
   - /tutorial.html
 ---
 
@@ -16,5 +16,4 @@ redirect_from:
 
 ### 100 R Programming Tips for Psychologists: A Beginner-Friendly Guide
 <font size="3">This book is written during my PhD to summarize all codes I had written. It is not only for psychologists, but almost for everyone who is doing social sciences or medical sciences</font>
-<font size="3">This is smaller text</font>
 
