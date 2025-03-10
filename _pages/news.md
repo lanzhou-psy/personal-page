@@ -9,6 +9,7 @@ redirect_from:
 
 ##### Record my progress step by step
 
+##### * 2024.06 I presented my research on childhood adversity and brain aging at OHBM 2024, South of Korea &#129392;
 ##### * 2024.04 I did my oral presentation on childhood adversity and the risk of psychosis at SIRS conference in Florence, Italy. &#128515; &#127881;
  
 ##### * 2024.02 I got my second seed grant to study childhood adveristy, retinal structural changes in schizophrenia &#127881;    _"From the Window into the Brain: Investigating the Association between Childhood Trauma and Retinal Structural Changes in First-Episode Psychosis_", €4600, De Cock-Hadders Foundation.
