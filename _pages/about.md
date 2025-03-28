@@ -16,7 +16,7 @@ redirect_from:
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">**Research Keywords: Childhood Adversities, Sczhizophrenia, Developmental Psychopathology, Neuroimaging, Network Neuroscience, Machine Learning**</span><br>
 
-<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">Beyond my academic pursuits, I am committed to addressing **mental health inequality** and advocating for improved access to mental health services for all individuals. I believe that everyone deserves equal opportunities to lead a healthy life, free from the burdens of mental health challenges.</span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">Beyond my academic pursuits, I am deeply committed to **addressing gender inequality and advocating for the rights of children and women**. In the future, I aspire to conduct research in these areas and establish a nonprofit organization focused on exploring the social, psychological, and structural factors contributing to health disparities. My goal is to identify effective strategies to promote health equity and overall well-being.</span><br>
 
 ### Before My PhD
 ### In Academia
