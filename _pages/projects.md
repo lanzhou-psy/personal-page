@@ -22,19 +22,23 @@ redirect_from:
 #### 3. Abnormal structured covariance network in childhood trauma-exposed psychosis.
 
 ### Other collaborative projects (I am not the leading person)
-#### 1. The dose-response effect of childhood adversity on the risk of psychosis. (collaboration with Richard Bentall, Filippo Varese and their PhD student; contributions to data acquisition, interpretation, review for the work)
-#### 2. Impaired reward representations in schizophrenia and depression: re-evaluate the underpinnings of anhedonia from a transdiagonostic perspective. (collaboration with Chao Yan and his students; contributions to conception, study design, data acquisition, interpretation, and manuscript reviewing)
+#### 1. Impaired reward representations in schizophrenia and depression: re-evaluate the underpinnings of anhedonia from a transdiagonostic perspective. (collaboration with Chao Yan and his students; contributions to conception, study design, data acquisition, interpretation, and manuscript reviewing)
 
 ### Under review
 ##### **Zhou, L.**, Sommer, I.E., ... & Begemann, M. J. Chilhood adversity is associated with accelerated brain aging: evidence from a transdiognostic sample
 
-##### **Zhou, L.**, Sommer, I. E., Yang, P., Sikirin, L., van Os, J., Bentall, R. P., ... & Begemann, M. J. What Do Four Decades of Research Tell Us About the Association between Childhood Adversity and Psychosis: An Updated and Extended Multi-Level Meta-Analysis. Available at SSRN 4813693.
-
 ##### **Zhou, L.**, Cai, T., Ip, K. The association between neighborhood opportunity, cognitive function, and brain structure in youth: findings from ABCD study. Stage 1 was accepted by Biological Psychitry: Global Open Science (https://osf.io/rm3an/)
 
+#### Hu, D., Wang, L., **Zhou, L.**, Xia, Z., Jiang, H., Fan, M., Wang, Y., Yan, C. Frontoparietal connectivity underlying reward representation maintenance modulated reward anticipation
+
 ### Published papers
+
+##### Flinn A., Hefferman-Clarke R., Parker S., Kate A., **Zhou, L.**, Begemann A., Bentall R., & Varese F. (In press). Cumulative exposure to childhood adversity and risk of adult psychosis: A dose-response meta-analysis. Psychological Medicine
+
+##### **Zhou, L.**, Sommer, I. E., Yang, P., Sikirin, L., van Os, J., Bentall, R. P., ... & Begemann, M. J. (In press) What Do Four Decades of Research Tell Us About the Association between Childhood Adversity and Psychosis: An Updated and Extended Multi-Level Meta-Analysis. American Journal of Psychiatry.
+
 ##### Zhou, H. Y., **Zhou, L.**, Zheng, T. X., Ma, L. P., Fan, M. X., Liu, L., ... & Yan, C. (2024). Unraveling the link between childhood maltreatment and depression: Insights from the role of ventral striatum and middle cingulate cortex in hedonic experience and emotion regulation. Development and psychopathology, 1-11.
 
-### Grants
+### Early Career Grants
 #### 1. _From the Window into the Brain: Investigating the Association between Childhood Trauma and Retinal Structural Changes in First-Episode Psychosis_, 2024-2026, €4600, De Cock-Hadders Foundation.
 #### 2. _Tracing Shadows: Unraveling the Influence of Childhood Trauma on Adulthood Brain Aging through Machine Learning_, 2023-2024, €4000, Early Career Interdisciplinary Scholars Seed Grant, University of Groningen.
