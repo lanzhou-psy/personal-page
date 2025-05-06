@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "hi there, how can I help you? what can I do for you?"
+title: "Hi there, how can I help you? What can I do for you?"
 author_profile: true
 redirect_from: 
   - /md/
