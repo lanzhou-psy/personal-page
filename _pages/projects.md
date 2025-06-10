@@ -23,7 +23,7 @@ redirect_from:
 
 
 ### Published papers
-##### **Zhou, L.**, Cai, T., Ip, K. (2025) The association between neighborhood opportunity, cognitive function, and brain structure in youth: findings from ABCD study. Stage 1 was accepted by Biological Psychitry: Global Open Science
+##### **Zhou, L.**, Cai, T., Ip, K. (2025) The association between neighborhood opportunity, cognitive function, and brain structure in youth: findings from ABCD study. Biological Psychitry: Global Open Science
 
 ##### Flinn A., Hefferman-Clarke R., Parker S., Kate A., **Zhou, L.**, Begemann A., Bentall R., & Varese F. (2025). Cumulative exposure to childhood adversity and risk of adult psychosis: A dose-response meta-analysis. Psychological Medicine
 
