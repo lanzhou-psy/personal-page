@@ -11,11 +11,13 @@ redirect_from:
 
 ##### * 2025.05 The COI paper was accepted by Biological Psychiatry GOS &#127881;&#127881;&#127881;, in which we used ABCD data (N>10,000) to examine the association between neighborhood opportunity, cognition function and brain structure in youth. Why am I interested in neighborhood exposures? Or why does neighborbood exposome matter in youth neurodevelopment? You will read it soon.
 
+##### * 2025.04 I also attend the neurolinguistics conference after SIRS conference at Chicago organized by Lena, which is super interesting, especially when the large language models come out, mental health practioners can do more things.&#127881;
 
 ##### * 2025.04 I went to Chicago for SIRS conference 2025. I gave two oral presentations on: 1) childhood trauma and longitudinal clinical trajectories in psychosis; 2) chidlhood trauma, psychosocial factors and psychopathology in the first-episode psychosis. &#128515; &#127881;
 
 ##### * 2024.10 My meta-analysis paper was accepted by AJP, which is my first English paper as the first author &#127881;&#127881;&#127881;. It was rejected three times by Lancet P, JAMA P and WP. Thanks God that finally it was accepted! I am happy to collaborate with Dr. Filippo Varese and Prof. Richard Bentall. Huge thanks to my master students: Lev, Travis, Sarah, Nickolas, Lea, and Sandra. I wanted to give up many times, but I feel so grateful that Richard encouraged me and sent me warm words when I felt very upset. Now we all can read this paper [here](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fpsychiatryonline.org%2Fdoi%2Fpdf%2F10.1176%2Fappi.ajp.20240456%3Fcasa_token%3DOEeP-t0uRI4AAAAA%3A2So6KViju67mU0_Z6AtYRcN4v_bVFSYo3JWjAVjwg665qOiqbnFDCrretZepKAPoutS0mFSrFA#=&zoom=130)
 
+##### * 2024.09 I attend the experience sampling methods conference at Harlen, Netherlands. I feel such methods are promising in the mental health research.
 ##### * 2024.06 I presented my research on childhood adversity and brain aging at OHBM 2024, South of Korea &#129392;
 ##### * 2024.04 I did my oral presentation on childhood adversity and the risk of psychosis at SIRS conference in Florence, Italy. &#128515; &#127881;
  
