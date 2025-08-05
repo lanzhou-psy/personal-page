@@ -1,6 +1,6 @@
 ---
-permalink: /resources/
-title: "Resources"
+permalink: /resource/
+title: "resource"
 modified: 2016-06-06
 ---
 
