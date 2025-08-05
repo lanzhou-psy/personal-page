@@ -1,7 +1,7 @@
 ---
 permalink: /resource/
 title: "resource"
-modified: 2016-06-06
+modified: 2025-06-06
 ---
 
 {% include base_path %}
