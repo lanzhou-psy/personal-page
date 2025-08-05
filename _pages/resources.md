@@ -1,5 +1,5 @@
 ---
-permalink: /Resources/
+permalink: /resources/
 title: "Resources"
 modified: 2016-06-06
 ---
