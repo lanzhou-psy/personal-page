@@ -130,14 +130,14 @@ redirect_from:
           <div class="timeline-item">
             <div class="timeline-date">
               <img class="social-icon" src="images/cuhk_logo.png"/>
-              Nov, 2019 - Feb, 2020
+              Sept, 2017 - Sept, 2018
             </div>
             <div class="timeline-title">
-              Research Assistant @ <a href="https://www.cuhk.edu.cn/en" target="_blank">CUHK(SZ)</a>
+              Medical Affairs Assitant @ <a href="https://www.cuhk.edu.cn/en" target="_blank">CUHK(SZ)</a>
             </div>
             <div class="timeline-desc">
               <div class="timeline-host">
-                Supervisor: <a href="https://sites.google.com/view/zhouliguang" target="_blank">Dr. Liguang Zhou</a>, <a href="https://sites.google.com/site/lamtinlun" target="_blank">Prof. Tin Lun Lam</a>
+                Supervisor: Jing Jin
               </div>
             </div>
           </div>
