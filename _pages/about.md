@@ -145,3 +145,90 @@ redirect_from:
     <br>
   </div>
   </div>
+
+
+  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="max-width: 400px; width: 100%;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=K9NLvpbM7GH1cTCvhvVlo4LW5p-d2mRZYw6UhrAFw0g&cl=ffffff&w=a"></script>
+  </div>
+</div>
+
+
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>Personal Email:</li>
+          <li><a href="mailto:">jcenaa [at] connect.ust.hk</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+          <a href="https://scholar.google.com/citations?user=7SKAhBwAAAAJ&hl=en" target="_blank" class="icon-button github">
+          <i class="ai ai-google-scholar-square icon-github"></i>
+            <span></span>
+          </a>
+
+          <a href="https://github.com/Jun-CEN" target="_blank" class="icon-button github">
+            <i class="fa fa-github icon-github"></i>
+            <span></span>
+          </a>
+
+          <a href="https://www.linkedin.com/in/jun-cen-45b995219/" target="_blank" class="icon-button linkedin">
+            <i class="fa fa-linkedin icon-linkedin"></i>
+            <span></span>
+          </a>
+         
+          <a href="work/Resume_Jun_CEN.pdf" target="_blank" class="icon-button github">
+            <i class="ai ai-cv icon-github"></i>
+            <span></span>
+          </a>
+      </div>
+	<div class="footer-col footer-col-3">
+    	<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwillhua127.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
+	<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?user=Lxe71v4AAAAJ&hl=en&url=https%3A%2F%2Fscholar.google.com%2Fcitations&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
+		<p class="text">Last updated: Aug, 2025.<br>The style of this website is borrowed from <a href='https://leoyuan.site/' target="_blank">Zeqing Yuan's</a>.</p>
+	</div>
+  </div>
+  </div>
+
+</footer>
+    <div class="back-to-top">Top</div>
+
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.back-to-top').fadeIn(duration);
+        } else {
+            jQuery('.back-to-top').fadeOut(duration);
+    
+        }
+    });
+    jQuery('.back-to-top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
+  </body>
+
+<!--
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60071442-1', 'auto');
+  ga('send', 'pageview');
+</script>
+-->
+
+<!--<script src="custom-pub.js"></script>-->
+</html>
