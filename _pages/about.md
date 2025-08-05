@@ -25,127 +25,6 @@ redirect_from:
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 1.0;">From 2017 to 2018, I served as a **Medical Affairs Assistant at Chisie pharmaceutical company**. I was responsible for Drug Safety of Respiratory & Neonatal drugs, and diligently reported Adverse Events to the Food and Drug Administration (FDA).</span><br>
 
-<!-- <div class="wrapper"> -->
-  <div id="timeline" class="timeline-brief">
-    <h1 class="md-heading text-left">
-      <i class="fa fa-tasks" aria-hidden="true"></i>
-      Experiences
-    </h1>
-  
-    <div class="timeline-body">
-      <div class="timeline-item">
-        <div class="timeline-date">
-          <img class="social-icon" src="images/damo_logo_2.avif"/>
-          Aug, 2024 - Now
-        </div>
-        <div class="timeline-title">
-          Algorithm Expert @ <a href="https://damo.alibaba.com/?language=zh" target="_blank">DAMO Academy, Alibaba</a>
-        </div>
-        <div class="timeline-desc">
-          <b> Join as <img class="social-icon" src="images/alistar.png" style="width:20px; height:20px; vertical-align:middle; position:relative; top:-2px;"/>&#8201<a href="https://talent.alibaba.com/activity/ali-star?lang=zh" target="_blank">AliStar,</a> focus on Embodied AI and VLA models. </b>
-          <div class="timeline-host">
-            <!-- Supervisor: <a href="https://prokia.github.io/">Shuangjia Zheng</a> -->
-          </div>
-        </div>
-      </div>
-  
-      
-      <div class="timeline-item">
-        <div class="timeline-date">
-          <img class="social-icon" src="images/MSRA_3.jpg"/>
-          Aug, 2023 - May, 2024
-        </div>
-        <div class="timeline-title">
-          Research Intern @ <a href="https://www.msra.cn/" target="_blank">MSRA</a>
-        </div>
-        <div class="timeline-desc">
-          <div class="timeline-host">
-            Supervisor: <a href="https://chenfei-wu.github.io//" target="_blank">Dr. Chenfei Wu</a>, <a href="https://nanduan.github.io//" target="_blank">Dr. Nan Duan</a>
-          </div>
-        </div>
-      </div>
-  
-      
-      <div class="timeline-item">
-        <div class="timeline-date">
-          <img class="social-icon" src="images/SUSTech_3.png"/>
-          Aug, 2023 - July, 2024
-        </div>
-        <div class="timeline-title">
-          Visiting Student @ <a href="https://www.sustech.edu.cn/en/" target="_blank">SUSTech</a>
-        </div>
-        <div class="timeline-desc">
-          <div class="timeline-host">
-            Supervisor: <a href="https://www.sustech.edu.cn/en/faculties/zhangjianguo.html" target="_blank">Prof. Jianguo Zhang</a>
-          </div>
-        </div>
-      </div>
-  
-      
-      <div class="timeline-item">
-        <div class="timeline-date">
-          <img class="social-icon" src="images/ntu_logo_2.png"/>
-          Mar, 2023 - Sep, 2023
-        </div>
-        <div class="timeline-title">
-          Visiting Student @ <a href="https://www.mmlab-ntu.com/" target="_blank">MMLab, NTU</a>
-        </div>
-        <div class="timeline-desc">
-        <div class="timeline-host">
-          Supervisor: <a href="https://liuziwei7.github.io/" target="_blank">Prof. Ziwei Liu</a>
-        </div>
-      </div>
-      </div>
-  
-        <div class="timeline-item">
-          <div class="timeline-date">
-            <img class="social-icon" src="images/tongyi.png"/>
-            Mar, 2022 - Mar, 2023
-          </div>
-          <div class="timeline-title">
-            Research Intern @ <a href="https://tongyi.aliyun.com/welcome" target="_blank">Tongyi Lab, Alibaba</a>
-          </div>
-          <div class="timeline-desc">
-            <div class="timeline-host">
-              Supervisor: <a href="https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en" target="_blank">Dr. Shiwei Zhang</a> 
-            </div>
-          </div>
-        </div>
-    
-          <div class="timeline-item">
-            <div class="timeline-date">
-              <img class="social-icon" src="images/hikvision.jpg"/>
-              Mar, 2020 - July, 2020
-            </div>
-            <div class="timeline-title">
-              Algorithm Intern @ <a href="https://www.hikvision.com/en/" target="_blank">HIKVISION</a>
-            </div>
-            <div class="timeline-desc">
-              <div class="timeline-host">
-                Supervisor: <a href="https://ieeexplore.ieee.org/author/37088529015" target="_blank"> Dr. Yushi Zhu</a>
-              </div>
-            </div>
-          </div>
-      
-          <div class="timeline-item">
-            <div class="timeline-date">
-              <img class="social-icon" src="images/cuhk_logo.png"/>
-              Sept, 2017 - Sept, 2018
-            </div>
-            <div class="timeline-title">
-              Medical Affairs Assitant @ <a href="https://www.cuhk.edu.cn/en" target="_blank">CUHK(SZ)</a>
-            </div>
-            <div class="timeline-desc">
-              <div class="timeline-host">
-                Supervisor: Jing Jin
-              </div>
-            </div>
-          </div>
-  
-    <br>
-  </div>
-  </div>
-
 
   <div style="display: flex; justify-content: center; align-items: center;">
   <div style="max-width: 400px; width: 100%;">
@@ -177,13 +56,12 @@ redirect_from:
 	<div class="footer-col footer-col-3">
     	<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwillhua127.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
 	<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?user=Lxe71v4AAAAJ&hl=en&url=https%3A%2F%2Fscholar.google.com%2Fcitations&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-		<p class="text">Last updated: Aug, 2025.<br></a>.</p>
-	</div>
+		<p class="text">Last updated: Aug, 2025.<br>.</p>
+	
   </div>
   </div>
 
-</footer>
-    <div class="back-to-top">Top</div>
+
 
 
 <script type="text/javascript">
@@ -205,7 +83,7 @@ jQuery(document).ready(function() {
     })
 });
 </script>
-  </body>
+
 
 <!--
   <script>
@@ -220,4 +98,4 @@ jQuery(document).ready(function() {
 -->
 
 <!--<script src="custom-pub.js"></script>-->
-</html>
+
