@@ -1,7 +1,6 @@
 # main links links
 main:
-#  - title: "Recording my PhD"
-#    url:  /teaching/ 
+
 
   - title: "Projects"
     url: /projects/    
@@ -26,8 +25,6 @@ main:
 
   - title: "Tutorials"
     url: /tutorial/
-
-
 
    - title: "Resources"
     url: /Resources/   
