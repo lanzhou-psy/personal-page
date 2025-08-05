@@ -149,7 +149,7 @@ redirect_from:
 
   <div style="display: flex; justify-content: center; align-items: center;">
   <div style="max-width: 400px; width: 100%;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=K9NLvpbM7GH1cTCvhvVlo4LW5p-d2mRZYw6UhrAFw0g&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=K9rT6IIPL53X6LpTczMTceF0MLDwtwE1lqI_RuXcnOQ&cl=ffffff&w=a"></script>
   </div>
 </div>
 
@@ -160,35 +160,24 @@ redirect_from:
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>Personal Email:</li>
-          <li><a href="mailto:">jcenaa [at] connect.ust.hk</a></li>
+          <li><a href="mailto:">lanzhou.psy [at] hotmail.com</a></li>
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-2">
-          <a href="https://scholar.google.com/citations?user=7SKAhBwAAAAJ&hl=en" target="_blank" class="icon-button github">
-          <i class="ai ai-google-scholar-square icon-github"></i>
-            <span></span>
-          </a>
+   
 
           <a href="https://github.com/Jun-CEN" target="_blank" class="icon-button github">
             <i class="fa fa-github icon-github"></i>
             <span></span>
           </a>
 
-          <a href="https://www.linkedin.com/in/jun-cen-45b995219/" target="_blank" class="icon-button linkedin">
-            <i class="fa fa-linkedin icon-linkedin"></i>
-            <span></span>
-          </a>
          
-          <a href="work/Resume_Jun_CEN.pdf" target="_blank" class="icon-button github">
-            <i class="ai ai-cv icon-github"></i>
-            <span></span>
-          </a>
+
       </div>
 	<div class="footer-col footer-col-3">
     	<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwillhua127.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
 	<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?user=Lxe71v4AAAAJ&hl=en&url=https%3A%2F%2Fscholar.google.com%2Fcitations&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-		<p class="text">Last updated: Aug, 2025.<br>The style of this website is borrowed from <a href='https://leoyuan.site/' target="_blank">Zeqing Yuan's</a>.</p>
+		<p class="text">Last updated: Aug, 2025.<br></a>.</p>
 	</div>
   </div>
   </div>
