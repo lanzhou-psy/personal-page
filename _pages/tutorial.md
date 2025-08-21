@@ -7,7 +7,7 @@ redirect_from:
   - /tutorial.html
 ---
 
-### T1 data processing using FreeSurfer
+### MRI T1 data processing using FreeSurfer
 <font size="3"> Wanna know how to use **Python and FreeSurfer (recon-all)** to do the T1 data processing and get the brain features (e.g., Volume, Surface, Thickness)? You can find the scripts and tutorial [here](https://github.com/lanzhou-psy/freesurfer_T1_processing).</font>
 
 ### Psychopathogical Network Analysis
