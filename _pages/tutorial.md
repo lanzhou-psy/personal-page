@@ -3,7 +3,7 @@ permalink: /tutorial/
 title: "Tutorials"
 author_profile: true
 redirect_from: 
-  - /tutorial/
+  - /Tutorial/
   - /tutorial.html
 ---
 
