@@ -9,31 +9,26 @@ modified: 2025-06-06
 
 ## Labs
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+(Binder's lab)[https://www.psych.mpg.de/binder], led by Elisabeth Binder, MPI.
+(McLaughlin's lab)[https://sdlab.fas.harvard.edu/people2], led by Katie McLaughlin, Havard.
+(Whittle's lab)[https://www.mncresearch.org/affective-neurodevelopment], led by Sarah Whittle, Melbourne.
+(SNAP lab)[https://snaplab.stanford.edu/], led by Ian Gotlib, Standford.
+(CAND lab)[http://candlab.yale.edu/category/research], led by Dylan Gee, Yale.
+(DUNN lab) [https://www.thedunnlab.com/], led by Erin Dunn, Purdue.
+(inDepth lab)[https://charlottececil.com/], led by Charlotte Cecil, Erasmus MC.
+(Eiko Fried)[https://eiko-fried.com/], Leiden
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
 ## Journals
+JAMA Psychiatry
+World Paychiatry
+American Journal of Psychiatry
+Nature Mental Health
+Biological Psychiatry
+Journal of the American Academy of Child and Adolescent Psychiatry
+Brain
+Psychological Medicine
+Trends in Cognitive Sciences
+Schizophrenia Bulletin
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-###
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
