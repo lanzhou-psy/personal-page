@@ -8,7 +8,7 @@ permalink: /resource/
 ### Labs
 
 - [Binder's lab](https://www.psych.mpg.de/binder), led by Elisabeth Binder, MPI.
-- [McLaughlin's lab]\(https://sdlab.fas.harvard.edu/people2), led by Katie McLaughlin, Havard.
+- [McLaughlin's lab](https://sdlab.fas.harvard.edu/people2), led by Katie McLaughlin, Havard.
 - [Whittle's lab](https://www.mncresearch.org/affective-neurodevelopment), led by Sarah Whittle, Melbourne.
 - [SNAP lab](https://snaplab.stanford.edu/), led by Ian Gotlib, Standford.
 - [CAND lab](http://candlab.yale.edu/category/research), led by Dylan Gee, Yale.
