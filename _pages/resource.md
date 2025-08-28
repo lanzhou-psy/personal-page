@@ -5,7 +5,7 @@ permalink: /resource/
 
 {% include toc %}
 
-### Labs
+### Labs with excellent outputs in the field of early-life adversity and neurodevelopemt.
 
 - [Binder's lab](https://www.psych.mpg.de/binder), led by Elisabeth Binder, MPI.
 - [McLaughlin's lab](https://sdlab.fas.harvard.edu/people2), led by Katie McLaughlin, Havard.
