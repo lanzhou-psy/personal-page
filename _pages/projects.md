@@ -19,7 +19,8 @@ redirect_from:
 ### Working papers/projects
 #### 1. Relationship between childhood adversity and psychopathology in general population: exploring the multiple pathways from a network perspective
 #### 2. Inter-relationships among childhood adversity, polygenic risk score, and psychopathology in first-episode psychosis
-#### 3. Abnormal structure covariance network in childhood trauma-exposed psychosis.
+#### 3. Map the brain structural deviations in childhood trauma-exposed psychosis using normative modeling
+#### 4. Abnormal structure covariance network in childhood trauma-exposed psychosis.
 
 
 ### Published papers
