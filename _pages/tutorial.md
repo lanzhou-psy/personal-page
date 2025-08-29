@@ -15,6 +15,11 @@ You can find the scripts and tutorial
 <a href="https://github.com/lanzhou-psy/freesurfer_T1_processing">here</a>.
 </font>
 
+### Charting the brain structure deviations in psychiatric disorders across lifespan using normative modeling
+<font size="3">
+Normative modeling is like making a map of what is “typical” for the brain so we can see how an individual brain compares. It’s powerful because instead of just comparing groups (e.g., “patients vs. healthy”), it lets us understand each person’s brain in the context of typical development and variation.
+  The PCN toolkit will be used in the tutorial.
+</font>
 
 ### Psychopathogical Network Analysis
 <font size="3">This is the tutorial for psychopathological network analysis. The related packages will be used such as "bootnet", "qgrap", and "networktools".</font>
