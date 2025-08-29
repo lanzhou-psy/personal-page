@@ -18,7 +18,8 @@ You can find the scripts and tutorial
 ### Charting the brain structure deviations in psychiatric disorders across lifespan using normative modeling
 <font size="3">
 Normative modeling is like making a map of what is “typical” for the brain so we can see how an individual brain compares. It’s powerful because instead of just comparing groups (e.g., “patients vs. healthy”), it lets us understand each person’s brain in the context of typical development and variation.
-  The PCN toolkit will be used in the tutorial.
+  The PCN toolkit will be used in the tutorial
+  <a href = "https://github.com/lanzhou-psy/Normative-Modeling/blob/main/README.md">here</a>.
 </font>
 
 ### Psychopathogical Network Analysis
