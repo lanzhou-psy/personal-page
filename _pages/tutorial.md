@@ -19,15 +19,8 @@ You can find the scripts and tutorial
 <font size="3">
 Normative modeling is like making a map of what is “typical” for the brain so we can see how an individual brain compares. It’s powerful because instead of just comparing groups (e.g., “patients vs. healthy”), it lets us understand each person’s brain in the context of typical development and variation.
   The PCN toolkit will be used in the tutorial
-  <a href = "https://github.com/lanzhou-psy/Normative-Modeling/blob/main/README.md">here</a>.
+  <a href = "https://github.com/lanzhou-psy/Normative-Modeling/blob/main/README.md">here</a> in Python.
 </font>
-
-### Psychopathogical Network Analysis
-<font size="3">This is the tutorial for psychopathological network analysis. The related packages will be used such as "bootnet", "qgrap", and "networktools".</font>
-
-
-### Mutilevel modeling/linear mixed-effect model
-
 
 ### 100 R Programming Tips for Psychologists: A Beginner-Friendly Guide
 <font size="3">
@@ -37,4 +30,12 @@ Currently, this book is not available.
 But you can get some open access materials offered by me and my colleague, e.g., 
 <a href="https://github.com/lanzhou-psy/CNC-R_course/tree/main">CNC R course</a>.
 </font>
+
+
+### Psychopathogical Network Analysis
+<font size="3">This is the tutorial for psychopathological network analysis. The related packages will be used such as "bootnet", "qgrap", and "networktools".</font>
+
+
+### Mutilevel modeling/linear mixed-effect model
+
 
