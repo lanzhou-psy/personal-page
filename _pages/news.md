@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 ##### Record my progress step by step
+##### * 2025.09 I was awarded the Mary Seeman Trave Grant to Barcelona for European Women's Mental Health Conference. And I gave one oral presentation on "early-life adversity and longitudinal depressive symptoms, sleep hours and cognitive function decline in postmenopause women."
+
+##### * 2025.08 I was awarded one of the competitive fellowships by ZonMv to support the gender in research summer school at the University of Erasmus Rotterdam.
+
+##### * 2025.06 I presented a poster presentation on neighborhood environment and neurocognitive development in the OHBM conference 2025, Brisban, Australia.
 
 ##### * 2025.05 The COI paper was accepted by Biological Psychiatry GOS &#127881;&#127881;&#127881;, in which we used ABCD data (N>10,000) to examine the association between neighborhood opportunity, cognition function and brain structure in youth. Why am I interested in neighborhood exposures? Or why does neighborbood exposome matter in youth neurodevelopment? You will read it soon.
 
