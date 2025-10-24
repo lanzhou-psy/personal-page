@@ -10,11 +10,11 @@ redirect_from:
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> Childhood adversity is one big public health issue and may lead to adulthood illness, not only including mental health probelms but also many physical problems. **A safe and healthy childhood are fundamental to physical, mental, and social development.** I am deeply interested in exploring the **trans-diagnostic mechanisms of childhood adversity**. My work seeks to understand how experiences of stress, trauma, neighborhood risk and social disadvantages in childhood alter developmental processes in ways that increase risk for psychopathology. Understanding these mechanisms is critical for the development of interventions to prevent the onset of psychopathology in children who experience adversity. </span><br>
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> I am trying to understand childhood adversity and psychopathology from different levels: </span><br>
-- **Theory/Goal Level**: life history theory; the stress acceleration hypothesis
-- **Algorithm Level**: accelerated aging, different attachment styles, dsyregulated emotion regulation, abnormal reward/threat processing, abnormal metabolism
-- **Implementation Level**: higher inflammation, abnormal neurocognition, more risk-taking behaviours 
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">  - **Theory/Goal Level**: life history theory; the stress acceleration hypothesis </span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">- **Algorithm Level**: accelerated aging, different attachment styles, dsyregulated emotion regulation, abnormal reward/threat processing, abnormal metabolism </span><br>
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">- **Implementation Level**: higher inflammation, abnormal neurocognition, more risk-taking behaviours  </span><br>
 
-#### &#128226; Call for collaborator: if you are interested in childhood adversity and psychopathology, and if you have an expertise on reinforcement learning and decision making, I have some interesting research ideas in my mind and would like to share with you.
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">&#128226; Call for collaborator: if you are interested in childhood adversity and psychopathology, and if you have an expertise on reinforcement learning and decision making, I have some interesting research ideas in my mind and would like to share with you.</span><br>
 
 ### 1. The Impact of Childhood Adversity and Trauma on Brain and Mental Health
 
@@ -26,7 +26,7 @@ My first research line aims to answer **what aspects or features** of brain stru
   - **Zhou, L.**, Schnack H., van Dellen, E., P. Boks., M., Bakker, R., Cahn, W., Sommer, I. E., Begemann M. J. The transdiagnostic association between childhood trauma and accelerated brain aging in two independent datasets (under revision in Schizophrenia Bulletin)
   - **Zhou, L.**, Gangadin, S., De Beer, F., Begemann, M. J., Bakker, R., Sommer, I. E. Person-centered modeling of childhood adversity and its impact on long-term outcomes in first-episode psychosis: A four-year follow-up study (under review in Psychological Medicine)
   - **Zhou, L.**, Begemann, M., Bakker, R., Sommer, I.E. Mapping the brain structure deviations associated with childhood trauma in schizophrenia and bipolar disorders using normative modeling (In Preparation)
-  - 
+
 ### 2. Gene and Environment Interplay on Mental Health
 
 My second research line aims to answer how genetic predispositions interact with environmental exposures to influence mental health trajectories. By integrating genomic, environmental, and psychosocial data, I investigate how polygenic profiles moderate or mediate the impact of stress, trauma, and social context on mental health outcomes.
