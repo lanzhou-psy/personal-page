@@ -16,7 +16,7 @@ redirect_from:
 
 #### &#128226; Call for collaborator: if you are interested in childhood adversity and psychopathology, and if you have an expertise on reinforcement learning and decision making, I have some interesting research ideas in my mind and would like to share with you.
 
-#### The Impact of Childhood Adversity and Trauma on Brain and Mental Health
+#### 1. The Impact of Childhood Adversity and Trauma on Brain and Mental Health
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> My first research line aims to answer **what aspects or features** of brain structure, function, and behavior are shaped by early-life stress and adversity, and **what magnitude of these effects** confers vulnerability or resilience to later mental health problems. Using **multimodal neuroimaging, genetics, longitudinal data, machine learning, network modeling, and behavioral assessments**, I identify the specific brain and psychological signatures through which childhood experiences exert lasting effects on mental health. This work ultimately informs preventive and early intervention strategies that promote healthy development in at-risk populations. </span><br>
 
@@ -28,7 +28,17 @@ redirect_from:
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> Flinn A., Hefferman-Clarke R., Parker S., Kate A., **Zhou, L.**, Begemann A., Bentall R., & Varese F. (2025). Cumulative exposure to childhood adversity and risk of adult psychosis: A dose-response meta-analysis. Psychological Medicine  </span><br>
 
+#### 2. Gene and Environment Interplay on Mental Health
 
+My second research line aims to answer how genetic predispositions interact with environmental exposures to influence mental health trajectories. By integrating genomic, environmental, and psychosocial data, I investigate how polygenic profiles moderate or mediate the impact of stress, trauma, and social context on mental health outcomes.
+
+### 3. Computational Mechanisms of Childhood Adversity on Mental Health
+
+My third research line aims to answer **why and how** childhood adversity alters underlying computational processes in learning, decision-making, and emotion regulation that drive mental health outcomes. Using reinforcement learning, Bayesian modeling, and network analyses, I aim to identify **latent computational mechanisms** that link early experiences to psychopathology and adaptive functioning.
+
+### 4. Traumatic Memory and Intensive Ecological Momentary Assessment (EMA)
+
+My fourth research line aims to answer **when and under what conditions** traumatic memories and emotional states fluctuate in daily life. Using intensive Ecological Momentary Assessment (EMA) and mobile technologies, I capture real-time cognitive and affective dynamics to understand how memory reactivation, mood, and context interact to shape moment-to-moment mental health.
 
 ### Working papers/projects
 #### 1. Relationship between childhood adversity and psychopathology in general population: exploring the multiple pathways from a network perspective
