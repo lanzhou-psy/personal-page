@@ -10,9 +10,9 @@ redirect_from:
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> Childhood adversity is one big public health issue and may lead to adulthood illness, not only including mental health probelms but also many physical problems. **A safe and healthy childhood are fundamental to physical, mental, and social development.** I am deeply interested in exploring the **trans-diagnostic mechanisms of childhood adversity**. My work seeks to understand how experiences of stress, trauma, neighborhood risk and social disadvantages in childhood alter developmental processes in ways that increase risk for psychopathology. Understanding these mechanisms is critical for the development of interventions to prevent the onset of psychopathology in children who experience adversity. </span><br>
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> I am trying to understand childhood adversity and psychopathology from different levels: </span><br>
-**Theory/Goal Level**: life history theory; the stress acceleration hypothesis
-**Algorithm Level**: accelerated aging, different attachment styles, dsyregulated emotion regulation, abnormal reward/threat processing, abnormal metabolism
-**Implementation Level**: higher inflammation, abnormal neurocognition, more risk-taking behaviours 
+- **Theory/Goal Level**: life history theory; the stress acceleration hypothesis
+- **Algorithm Level**: accelerated aging, different attachment styles, dsyregulated emotion regulation, abnormal reward/threat processing, abnormal metabolism
+- **Implementation Level**: higher inflammation, abnormal neurocognition, more risk-taking behaviours 
 
 #### &#128226; Call for collaborator: if you are interested in childhood adversity and psychopathology, and if you have an expertise on reinforcement learning and decision making, I have some interesting research ideas in my mind and would like to share with you.
 
