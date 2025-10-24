@@ -16,6 +16,20 @@ redirect_from:
 
 #### &#128226; Call for collaborator: if you are interested in childhood adversity and psychopathology, and if you have an expertise on reinforcement learning and decision making, I have some interesting research ideas in my mind and would like to share with you.
 
+#### The Impact of Childhood Adversity and Trauma on Brain and Mental Health
+
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> My first research line aims to answer **what aspects or features** of brain structure, function, and behavior are shaped by early-life stress and adversity, and **what magnitude of these effects** confers vulnerability or resilience to later mental health problems. Using **multimodal neuroimaging, genetics, longitudinal data, machine learning, network modeling, and behavioral assessments**, I identify the specific brain and psychological signatures through which childhood experiences exert lasting effects on mental health. This work ultimately informs preventive and early intervention strategies that promote healthy development in at-risk populations. </span><br>
+
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> **Zhou, L.**, Cai, T., Ip, K. (2025) The association between neighborhood opportunity, cognitive function, and brain structure in youth: findings from ABCD study. Biological Psychitry: Global Open Science  </span><br>
+
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;">**Zhou, L.**, Sommer, I. E., Yang, P., Sikirin, L., van Os, J., Bentall, R. P., ... & Begemann, M. J. (2025) What Do Four Decades of Research Tell Us About the Association between Childhood Adversity and Psychosis: An Updated and Extended Multi-Level Meta-Analysis. American Journal of Psychiatry.  </span><br>
+
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> Zhou, H. Y., **Zhou, L.**, Zheng, T. X., Ma, L. P., Fan, M. X., Liu, L., ... & Yan, C. (2025). Unraveling the link between childhood maltreatment and depression: Insights from the role of ventral striatum and middle cingulate cortex in hedonic experience and emotion regulation. Development and psychopathology, 1-11.  </span><br>
+
+<span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> Flinn A., Hefferman-Clarke R., Parker S., Kate A., **Zhou, L.**, Begemann A., Bentall R., & Varese F. (2025). Cumulative exposure to childhood adversity and risk of adult psychosis: A dose-response meta-analysis. Psychological Medicine  </span><br>
+
+
+
 ### Working papers/projects
 #### 1. Relationship between childhood adversity and psychopathology in general population: exploring the multiple pathways from a network perspective
 #### 2. Inter-relationships among childhood adversity, polygenic risk score, and psychopathology in first-episode psychosis
@@ -24,13 +38,6 @@ redirect_from:
 
 
 ### Published papers
-##### **Zhou, L.**, Cai, T., Ip, K. (2025) The association between neighborhood opportunity, cognitive function, and brain structure in youth: findings from ABCD study. Biological Psychitry: Global Open Science
-
-##### Flinn A., Hefferman-Clarke R., Parker S., Kate A., **Zhou, L.**, Begemann A., Bentall R., & Varese F. (2025). Cumulative exposure to childhood adversity and risk of adult psychosis: A dose-response meta-analysis. Psychological Medicine
-
-##### **Zhou, L.**, Sommer, I. E., Yang, P., Sikirin, L., van Os, J., Bentall, R. P., ... & Begemann, M. J. (2025) What Do Four Decades of Research Tell Us About the Association between Childhood Adversity and Psychosis: An Updated and Extended Multi-Level Meta-Analysis. American Journal of Psychiatry.
-
-##### Zhou, H. Y., **Zhou, L.**, Zheng, T. X., Ma, L. P., Fan, M. X., Liu, L., ... & Yan, C. (2025). Unraveling the link between childhood maltreatment and depression: Insights from the role of ventral striatum and middle cingulate cortex in hedonic experience and emotion regulation. Development and psychopathology, 1-11.
 
 ### Early Career Grants
 #### 1. _From the Window into the Brain: Investigating the Association between Childhood Trauma and Retinal Structural Changes in First-Episode Psychosis_, 2024-2026, €4600, De Cock-Hadders Foundation.
