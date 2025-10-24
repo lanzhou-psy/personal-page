@@ -41,7 +41,7 @@ My third research line aims to answer **why and how** childhood adversity alters
 
 ### 4. Traumatic Memory and Intensive Ecological Momentary Assessment (EMA)
 
-My fourth research line aims to answer **when and under what conditions** traumatic memories and emotional states fluctuate in daily life. Using intensive Ecological Momentary Assessment (EMA) and mobile technologies, I capture fine-grained affective dynamics to understand how memory reactivation, mood, and contextual factors (i.e., physical activity, diet, pain, sleep, screen use, stress, negative life events, working status, and weather), interact to shape moment-to-moment mental health. I also aim to develop and evaluate **intervention strategies**, such as mindfulness-based and diary-based approaches, to modulate these dynamics and promote adaptive emotional regulation in daily life. Currently, I am still collecting data.
+My fourth research line aims to answer **when and under what conditions** traumatic memories and emotional states fluctuate in daily life. Using intensive Ecological Momentary Assessment (EMA) and mobile technologies, I capture fine-grained affective dynamics to understand how memory reactivation, mood, and contextual factors (i.e., social activity, physical activity, diet, pain, sleep, screen use, stress, negative life events, working status, and weather), interact to shape moment-to-moment mental health. I also aim to develop and evaluate **intervention strategies**, such as mindfulness-based and diary-based approaches, to modulate these dynamics and promote adaptive emotional regulation in daily life. Currently, I am still collecting data.
 
 
 ### Early Career Grants
