@@ -37,7 +37,7 @@ My second research line aims to answer how genetic predispositions interact with
 
 ### 3. Computational Mechanisms of Childhood Adversity on Mental Health
 
-My third research line aims to answer **why and how** childhood adversity alters underlying computational processes in learning, decision-making, and emotion regulation that drive mental health outcomes. Using reinforcement learning, Bayesian modeling, and network analyses, I aim to identify **latent computational mechanisms** that link early experiences to psychopathology and adaptive functioning.
+My third research line aims to answer **why and how** childhood adversity alters underlying computational processes in learning, decision-making, and emotion regulation that drive mental health outcomes. Using reinforcement learning, Bayesian modeling, and network analyses, I aim to identify **latent computational mechanisms** that link early experiences to psychopathology and adaptive functioning. I am using behavioural experiments data from ZIB study.
 
 ### 4. Traumatic Memory and Intensive Ecological Momentary Assessment (EMA)
 
