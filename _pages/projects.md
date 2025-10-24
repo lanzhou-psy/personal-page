@@ -19,11 +19,11 @@ redirect_from:
 ### 1. The Impact of Childhood Adversity and Trauma on Brain and Mental Health
 
 <span style="font-size: 14px; font-family: 'Arial', sans-serif; line-height: 0.7;"> My first research line aims to answer **what aspects or features** of brain structure, function, and behavior are shaped by early-life stress and adversity, and **what magnitude of these effects** confers vulnerability or resilience to later mental health problems. Using **multimodal neuroimaging, genetics, longitudinal data, machine learning, network modeling, and behavioral assessments**, I identify the specific brain and psychological signatures through which childhood experiences exert lasting effects on mental health. This work ultimately informs preventive and early intervention strategies that promote healthy development in at-risk populations. </span><br>
-
-**Zhou, L.**, Cai, T., Ip, K. (2025) The association between neighborhood opportunity, cognitive function, and brain structure in youth: findings from ABCD study. Biological Psychitry: Global Open Science
-**Zhou, L.**, Sommer, I. E., Yang, P., Sikirin, L., van Os, J., Bentall, R. P., ... & Begemann, M. J. (2025) What Do Four Decades of Research Tell Us About the Association between Childhood Adversity and Psychosis: An Updated and Extended Multi-Level Meta-Analysis. American Journal of Psychiatry. 
-Zhou, H. Y., **Zhou, L.**, Zheng, T. X., Ma, L. P., Fan, M. X., Liu, L., ... & Yan, C. (2025). Unraveling the link between childhood maltreatment and depression: Insights from the role of ventral striatum and middle cingulate cortex in hedonic experience and emotion regulation. Development and psychopathology, 1-11.
-Flinn A., Hefferman-Clarke R., Parker S., Kate A., **Zhou, L.**, Begemann A., Bentall R., & Varese F. (2025). Cumulative exposure to childhood adversity and risk of adult psychosis: A dose-response meta-analysis. Psychological Medicine
+- Publications:
+  - **Zhou, L.**, Cai, T., Ip, K. (2025) The association between neighborhood opportunity, cognitive function, and brain structure in youth: findings from ABCD study. Biological Psychitry: Global Open Science
+  - **Zhou, L.**, Sommer, I. E., Yang, P., Sikirin, L., van Os, J., Bentall, R. P., ... & Begemann, M. J. (2025) What Do Four Decades of Research Tell Us About the Association between Childhood Adversity and Psychosis: An Updated and Extended Multi-Level Meta-Analysis. American Journal of Psychiatry. 
+  - Zhou, H. Y., **Zhou, L.**, Zheng, T. X., Ma, L. P., Fan, M. X., Liu, L., ... & Yan, C. (2025). Unraveling the link between childhood maltreatment and depression: Insights from the role of ventral striatum and middle cingulate cortex in hedonic experience and emotion regulation. Development and psychopathology, 1-11.
+  - Flinn A., Hefferman-Clarke R., Parker S., Kate A., **Zhou, L.**, Begemann A., Bentall R., & Varese F. (2025). Cumulative exposure to childhood adversity and risk of adult psychosis: A dose-response meta-analysis. Psychological Medicine
 
 ### 2. Gene and Environment Interplay on Mental Health
 
@@ -35,7 +35,7 @@ My third research line aims to answer **why and how** childhood adversity alters
 
 ### 4. Traumatic Memory and Intensive Ecological Momentary Assessment (EMA)
 
-My fourth research line aims to answer **when and under what conditions** traumatic memories and emotional states fluctuate in daily life. Using intensive Ecological Momentary Assessment (EMA) and mobile technologies, I capture fine-grained affective dynamics to understand how memory reactivation, mood, and contextual factors (i.e., physical activity, diet, pain, sleep, stress, negative life events, working status, and weather), interact to shape moment-to-moment mental health. I also aim to develop and evaluate **intervention strategies**, such as mindfulness-based and diary-based approaches, to modulate these dynamics and promote adaptive emotional regulation in daily life.
+My fourth research line aims to answer **when and under what conditions** traumatic memories and emotional states fluctuate in daily life. Using intensive Ecological Momentary Assessment (EMA) and mobile technologies, I capture fine-grained affective dynamics to understand how memory reactivation, mood, and contextual factors (i.e., physical activity, diet, pain, sleep, screen use, stress, negative life events, working status, and weather), interact to shape moment-to-moment mental health. I also aim to develop and evaluate **intervention strategies**, such as mindfulness-based and diary-based approaches, to modulate these dynamics and promote adaptive emotional regulation in daily life.
 
 ### Working papers/projects
 #### 1. Relationship between childhood adversity and psychopathology in general population: exploring the multiple pathways from a network perspective
